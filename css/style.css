@@ -14,11 +14,11 @@ body {
 }
 .container {
     position: absolute; /* Posicionamiento absoluto para ubicarlo en la esquina */
-    top: 30px; /* Separación desde la parte superior */
-    left: 20px; /* Separación desde la izquierda */
-    max-width: 400px;
+    top: 65px; /* Separación desde la parte superior */
+    left: 10px; /* Separación desde la izquierda */
+    max-width: 245px;
     background-color: #fff;
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border: 2px solid black;
@@ -29,7 +29,7 @@ body {
     top: 0%;
     left: 0%;
     width: 200px;
-    transform: translate(44%, -50%); /* Elimina el centrado */
+    transform: translate(16%, -50%); /* Elimina el centrado */
 }
 h2 {
     text-align: center;
