@@ -14,7 +14,7 @@ body {
 }
 .container {
     position: absolute; /* Posicionamiento absoluto para ubicarlo en la esquina */
-    top: 15px; /* Separación desde la parte superior */
+    top: 65px; /* Separación desde la parte superior */
     left: 10px; /* Separación desde la izquierda */
     max-width: 245px;
     background-color: #fff;
